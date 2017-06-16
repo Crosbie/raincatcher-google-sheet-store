@@ -1,6 +1,6 @@
 {
   "name": "raincatcher-google-sheet-store",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An example package for storing Raincatcher data in a google sheet",
   "main": "lib/index.js",
   "scripts": {
